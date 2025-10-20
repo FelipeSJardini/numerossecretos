@@ -1,0 +1,47 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    background-color: #2157a7;
+    text-align: center;
+    padding-top: 50px;
+  }
+  
+  .container {
+    background: rgba(240, 234, 234, 0.504);
+    padding: 30px;
+    width: 300px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+  }
+  
+  #inputNumero {
+    padding: 10px;
+    width: 80%;
+    margin-bottom: 10px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #1ea5c7;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #1b9ca8;
+  }
+  
+  #mensagem {
+    font-weight: bold;
+    margin-top: 15px;
+  }
+
+  #tentativas {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    color: black;
+  }
+  
